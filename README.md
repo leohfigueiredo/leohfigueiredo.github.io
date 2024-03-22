@@ -1,66 +1,85 @@
-# Forty - Jekyll Theme
+![Forty Theme](assets/images/pxfuel.jpg)
 
-A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
+# Leonardo Henrique de Figueiredo
 
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
+- **Phone:** +44 07423408161 (WhatsApp)
+- **Email:** leohfigueiredo@gmail.com
+- **Location:** Liverpool, UK
+- **GitHub:** [github.com/leohfigueiredo](https://github.com/leohfigueiredo)
 
-# How to Use
+## Objective
+Seeking opportunities in Software Development, Data Engineering, Data Analysis, IoT, Electronic Engineering, or related fields. Currently holding a valid visa for the UK with no need for sponsorship.
 
-For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
-and [creating pages](https://jekyllrb.com/docs/pages/).
+## Summary
+- Electrical Engineering graduate with emphasis on Electronic Systems from UERJ, Brazil.
+- Specialized in Data Engineering and Artificial Intelligence.
+- Skilled in Data analysis, Software design, IoT, Cloud Computing, and Machine Learning.
+- Proficient in various programming languages and tools including Python, C++, Arduino, and more.
+- Extensive experience in technical sales, team management, and quality assurance.
+- Strong knowledge of ISO 9001 standards and process audits.
+- Fluent in English, with proficiency in Spanish and Portuguese.
 
-Simply fork this repository and start editing the `_config.yml` file!
+## Education
+- **Data Engineering and Artificial Intelligence Specialist** – Faculdade das Indústrias SENAI – Completed DEC/2022
+- **MBA in Production and Quality Management Engineering** – UNIFACEAR – Completed JAN/2018
+- **Electrical Engineering - Electronic Systems** – UERJ – Graduated JULY/2011
 
-> NOTE: GitHub Actions is required to deploy to GitHub Pages because GitHub [refuses to update their version of Jekyll](https://github.com/github/pages-gem/issues/651).
+## Skills
+- Analysis of Test Models and Applications
+- Exploratory Data Analysis
+- Business Intelligence
+- Data Pipelines Engineering
+- Software design with Python
+- Cloud Computing and Infrastructure
+- SQL and NoSQL Modeling
+- Machine Learning concepts
+- IoT development (Arduino, ESP32, Raspberry Pi)
+- AWS and Google Cloud platforms
+- Linux and shell scripting
+- Visual Studio Code, Django
+- Microsoft Office Suite
+- PowerBI
+- OpenCV
 
-# Added Features
+## Experiences
+### Pro-Global
+**Data Operator** – FEB, 2024 - Present
+- Conduct data cleaning, analysis, and interpretation.
+- Collaborate with clients to resolve data issues and ensure quality compliance.
 
-* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
-* Use `_config.yml` to **set whether the homepage tiles should pull pages or posts**, as well as how many to display.
-* Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
-* Set **featured images** in front matter.
+### MVG – Microwave Vision Group
+**Internal Sales Support Engineer** – JULY, 2022 – JAN, 2024
+- Assist sales team with project budgets and technical proposals.
+- Maintain CRM database and liaise with customers.
 
-# Credits
+### SM Facilities
+**Sales Advisor** – AGO, 2019 – OCT, 2021
+- Develop sales process and analyze technical specifications.
+- Market mapping for telecommunications engineering services.
 
-Original README from HTML5 UP:
+### Positivo Tecnologia
+**Bid Analyst** – MAY, 2018 - DEC, 2018
+- Interpret bidding documents and prepare technical proposals.
+- Coordinate pricing and contact with distributors.
 
-```
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+### Raytheon Anschutz do Brasil
+**Technical and Commercial Area - Electronic Engineer** – AGO 2012 - FEV 2017
+- Coordinate sales and office activities for navigation equipment.
+- Elaborate technical proposals and evaluate projects for vessels.
 
+### TNL Contax S.A.
+**Information Security Assistant** – JAN 2011 - DEC 2011
+- Monitor events related to information security and combat malicious activities.
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+## Additional Information
+- 3 years as a computer instructor at NGO Lar Abrigo Rainha Sílvia, teaching disadvantaged people Windows OS, Office Package, and Internet usage.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Courses and Training
+- Various courses in Deep Learning, IoT, Project Management, and more, detailed in the resume.
 
-(* = not included)
+## Languages
+- English: Fluent
+- Spanish: Basic
+- Portuguese: Native
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		background-size polyfill (github.com/louisremi)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
-```
-
-Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
+For a detailed portfolio, please visit my GitHub profile: [github.com/leohfigueiredo](https://github.com/leohfigueiredo)
