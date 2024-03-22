@@ -1,4 +1,4 @@
-![Forty Theme](assets/images/pxfuel.jpg)
+#banner: /assets/images/pxfuel.jpg
 
 # Leonardo Henrique de Figueiredo
 
